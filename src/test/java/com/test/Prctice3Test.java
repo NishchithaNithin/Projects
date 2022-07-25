@@ -10,6 +10,7 @@ public class Prctice3Test
 	 {
 		 Reporter.log("hi",true);
 		 Reporter.log("changes should appear");
+		 //modifications
 	 } 
 }
 
